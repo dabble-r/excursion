@@ -1,5 +1,5 @@
 body {
-  background-color: black
+  background-color: grey
 }
 
 #header-top-h1 {
@@ -18,4 +18,11 @@ body {
 #header-top-link {
   text-align: center
 }
+
+#video-phone {
+  width: auto;
+  height: auto;
+  border-radius: 50px
+}
+
 
