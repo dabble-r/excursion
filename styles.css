@@ -59,3 +59,9 @@ body {
   text-align: center
 }
 
+#footer-div {
+  font-family: verdana;
+  color: grey;
+  text-align: right
+}
+
