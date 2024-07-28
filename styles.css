@@ -22,7 +22,9 @@ body {
 #video-phone {
   width: auto;
   height: auto;
-  border-radius: 50px
+  border-radius: 50px;
+  position: relative;
+  left: 38%
 }
 
 #header-middle {
@@ -38,6 +40,15 @@ body {
   color: grey;
   font-size: 21px;
   text-align: center
+}
+
+#picture-1-middle {
+  position: relative;
+  left: 25%
+}
+#picture-2-middle {
+  position: relative;
+  left: 48%
 }
 
 #header-bottom {
