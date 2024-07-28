@@ -1,8 +1,8 @@
 body {
-  background-color: grey
+  background-color: black
 }
 
-#header-top-h1 {
+#header-top {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
@@ -15,7 +15,7 @@ body {
   font-size: 16px;
 }
 
-#header-top-link {
+#sub-header-top {
   text-align: center
 }
 
@@ -25,4 +25,26 @@ body {
   border-radius: 50px
 }
 
+#header-middle {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center
+}
+
+#sub-header-middle {
+  font-family: verdana;
+  color: grey;
+  font-size: 21px;
+  text-align: center
+}
+
+#header-bottom {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center
+}
 
